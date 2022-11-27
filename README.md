@@ -1,4 +1,4 @@
-# MP3Renamer
+# Scan2PDF
 Scan2PDF is a simple piece of software that allows an image passed to it to be written to a PDF, recompressed as JPEG. 
 The location the files will be saved to and the JPEG compression ratio are customisable. All saved files are keyed with the current date and time in the format "YYYY-MM-DD HH.MM.SS.pdf"
 
